@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Call the Deckhand favicon placeholder</title>
+  <rect width="64" height="64" rx="12" fill="#254C45"/>
+  <path d="M18 14h28v18c0 7.9-4.2 15.3-11 19.3L32 53l-3-1.7c-6.8-4-11-11.4-11-19.3V14Z" fill="#FFFDF8"/>
+  <path d="M23 20h18v10.9c0 5.1-2.7 9.8-7.1 12.4L32 44.4l-1.9-1.1C25.7 40.7 23 36 23 30.9V20Z" fill="#6F93A5"/>
+  <path d="M18 47c4.4-1.2 8.3-1.2 11.8 0s7.2 1.2 11 0 6.4-1.2 7.2 0" fill="none" stroke="#B88A44" stroke-linecap="round" stroke-width="3"/>
+  <circle cx="32" cy="31" r="4" fill="#F26D5B"/>
+</svg>

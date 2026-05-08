@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Tidy yacht deck detail in harbour light</title>
+  <desc id="desc">A restrained placeholder illustration of a clean yacht deck with timber, canvas, stainless fittings, and harbour-coloured reflections.</desc>
+  <rect width="900" height="1125" fill="#FFFDF8"/>
+  <rect x="72" y="72" width="756" height="981" rx="18" fill="#F7F3EA" stroke="#D7D2C8" stroke-width="4"/>
+  <path d="M150 160h600v250c0 120-62 230-160 294L450 795 310 704c-98-64-160-174-160-294V160Z" fill="#254C45"/>
+  <path d="M195 212h510v194c0 92-48 176-124 225L450 716 319 631c-76-49-124-133-124-225V212Z" fill="#6F93A5"/>
+  <path d="M250 260h400v145c0 70-36 133-94 171l-106 69-106-69c-58-38-94-101-94-171V260Z" fill="#F7F3EA"/>
+  <path d="M292 305h316v92c0 52-27 100-71 128l-87 56-87-56c-44-28-71-76-71-128V305Z" fill="#FFFDF8"/>
+  <g fill="none" stroke="#B88A44" stroke-linecap="round" stroke-width="8">
+    <path d="M160 900h580"/>
+    <path d="M190 830h520"/>
+    <path d="M220 760h460"/>
+  </g>
+  <g fill="none" stroke="#111827" stroke-opacity=".3" stroke-width="3">
+    <path d="M450 160v620"/>
+    <path d="M160 900c78-18 150-18 216 0s135 18 207 0 124-18 157 0"/>
+    <path d="M190 830c68-15 131-15 190 0s120 15 183 0 111-15 147 0"/>
+  </g>
+  <circle cx="253" cy="875" r="22" fill="#F26D5B"/>
+  <circle cx="647" cy="875" r="22" fill="#F26D5B"/>
+  <rect x="342" y="898" width="216" height="44" rx="22" fill="#111827"/>
+  <rect x="377" y="910" width="146" height="20" rx="10" fill="#D7D2C8"/>
+</svg>
